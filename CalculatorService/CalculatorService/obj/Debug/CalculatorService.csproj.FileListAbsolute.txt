@@ -1,0 +1,6 @@
+c:\users\codemen\documents\visual studio 2015\Projects\CalculatorService\CalculatorService\bin\Debug\CalculatorService.dll.config
+c:\users\codemen\documents\visual studio 2015\Projects\CalculatorService\CalculatorService\bin\Debug\CalculatorService.dll
+c:\users\codemen\documents\visual studio 2015\Projects\CalculatorService\CalculatorService\bin\Debug\CalculatorService.pdb
+c:\users\codemen\documents\visual studio 2015\Projects\CalculatorService\CalculatorService\obj\Debug\CalculatorService.csprojResolveAssemblyReference.cache
+c:\users\codemen\documents\visual studio 2015\Projects\CalculatorService\CalculatorService\obj\Debug\CalculatorService.dll
+c:\users\codemen\documents\visual studio 2015\Projects\CalculatorService\CalculatorService\obj\Debug\CalculatorService.pdb

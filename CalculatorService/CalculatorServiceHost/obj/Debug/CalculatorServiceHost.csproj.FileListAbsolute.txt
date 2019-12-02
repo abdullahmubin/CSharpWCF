@@ -1,0 +1,8 @@
+c:\users\codemen\documents\visual studio 2015\Projects\CalculatorService\CalculatorServiceHost\bin\Debug\CalculatorServiceHost.exe.config
+c:\users\codemen\documents\visual studio 2015\Projects\CalculatorService\CalculatorServiceHost\bin\Debug\CalculatorServiceHost.exe
+c:\users\codemen\documents\visual studio 2015\Projects\CalculatorService\CalculatorServiceHost\bin\Debug\CalculatorServiceHost.pdb
+c:\users\codemen\documents\visual studio 2015\Projects\CalculatorService\CalculatorServiceHost\bin\Debug\CalculatorService.dll
+c:\users\codemen\documents\visual studio 2015\Projects\CalculatorService\CalculatorServiceHost\bin\Debug\CalculatorService.pdb
+c:\users\codemen\documents\visual studio 2015\Projects\CalculatorService\CalculatorServiceHost\obj\Debug\CalculatorServiceHost.csprojResolveAssemblyReference.cache
+c:\users\codemen\documents\visual studio 2015\Projects\CalculatorService\CalculatorServiceHost\obj\Debug\CalculatorServiceHost.exe
+c:\users\codemen\documents\visual studio 2015\Projects\CalculatorService\CalculatorServiceHost\obj\Debug\CalculatorServiceHost.pdb
